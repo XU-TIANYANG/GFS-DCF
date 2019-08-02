@@ -1,10 +1,6 @@
 # GFS-DCF
 Matlab implementation of ICCV2019 paper "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking"
 
-GFS-DCF Matlab implementation of the ICCV2019 paper
-"Joint Group Feature Selection and Discriminative Filter Learning for
-Robust Visual Object Tracking"
-
 ## [Download the Paper](https://www.researchgate.net/publication/334849529_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_Visual_Object_Tracking)
 >@article{xu2019joint,
   title={Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking},
