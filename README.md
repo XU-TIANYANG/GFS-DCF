@@ -12,6 +12,8 @@ Robust Visual Object Tracking"
   journal={arXiv preprint arXiv:1907.13242},
   year={2019}}
 
+![image](https://github.com/XU-TIANYANG/GFS-DCF/blob/master/Fig.jpg)
+
 Dependencies:
 MatConvNet, PDollar Toolbox. 
 Please download the latest MatConvNet (http://www.vlfeat.org/matconvnet/) 
